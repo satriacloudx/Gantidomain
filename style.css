@@ -1,0 +1,27 @@
+.notification {
+  width: 400px;
+  margin: 100px auto;
+  padding: 20px;
+  text-align: center;
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+}
+
+.notification h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+.notification p {
+  font-size: 16px;
+  color: #555;
+}
+
+.notification a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.notification a:hover {
+  text-decoration: underline;
+}
